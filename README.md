@@ -1,12 +1,80 @@
-# React + Vite
+# ✅ ToDo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple yet powerful **ToDo List** built with **React**.
+Easily add, track, and remove tasks — with a clean, modern UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+* ➕ Add new tasks
+* ✅ Mark tasks as done & remove them
+* 🎨 Modern UI with smooth styling
+* ⚡ Responsive design
+* 🖥 Built with **React + Vite**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Live Demo
+
+[Click here to try it out](#) *(Add your deployed link when ready — e.g., Netlify, Vercel, GitHub Pages)*
+
+---
+
+## 📸 Screenshots
+
+### Main UI
+
+[![App Screenshot](https://drive.google.com/file/d/1W77Z6iVaa6ZXBgNhL4_1hec3vSa4kuY6/view?usp=sharing)]
+
+---
+
+## 🛠 Tech Stack
+
+* **React** (Frontend)
+* **Vite** (Bundler)
+* **CSS3** (Styling)
+
+---
+
+## 📂 Project Setup
+
+### Clone the repository
+
+```bash
+git clone https://github.com/SomnathGupta28/todo-app.git
+cd todo-app
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run locally
+
+```bash
+npm run dev
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are always welcome!
+
+1. Fork the repo
+2. Create a new branch (`git checkout -b feature-xyz`)
+3. Commit your changes (`git commit -m "Added new feature"`)
+4. Push to branch (`git push origin feature-xyz`)
+5. Open a Pull Request 🎉
+
+---
+
+
+## 👨‍💻 Author
+
+* **[Somnath](https://github.com/SomnathGupta28)**
+
+---
