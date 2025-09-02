@@ -17,7 +17,7 @@ Easily add, track, and remove tasks — with a clean, modern UI.
 
 ## 🚀 Live Demo
 
-[Click here to try it out](#) *(Add your deployed link when ready — e.g., Netlify, Vercel, GitHub Pages)*
+[Click here to try it out](https://todo-list-somnath28.netlify.app/)
 
 ---
 
@@ -25,7 +25,7 @@ Easily add, track, and remove tasks — with a clean, modern UI.
 
 ### Main UI
 
-[![App Screenshot](https://drive.google.com/file/d/1W77Z6iVaa6ZXBgNhL4_1hec3vSa4kuY6/view?usp=sharing)]
+![App Screenshot](https://drive.google.com/uc?export=view&id=1W77Z6iVaa6ZXBgNhL4_1hec3vSa4kuY6)
 
 ---
 
